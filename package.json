@@ -4,7 +4,8 @@
   "description": "nodejs para mostrar arjs en html",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon --exec babel-node server"
+    "dev": "nodemon --exec babel-node server",
+    "start": "node --exec babel-node server"
   },
   "author": "Oscar Garcia",
   "license": "ISC",
