@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon --exec babel-node server",
-    "start": "node --exec babel-node server"
+    "start": "node server"
   },
   "author": "Oscar Garcia",
   "license": "ISC",
