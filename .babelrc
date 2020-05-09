@@ -1,0 +1,4 @@
+//Elige la version en el que se quiere compilar nuestro archivo
+{
+    "presets": ["@babel/preset-env"]
+}
